@@ -1,0 +1,4 @@
+ADD_REGISTRY="--add-registry registry.inep.gov.br:443 --add-registry redhat-registry.inep.gov.br:443 --add-registry registry.access.redhat.com "
+INSECURE_REGISTRY="--insecure-registry registry.inep.gov.br:443 --insecure-registry redhat-registry.inep.gov.br:443 "
+
+Arquivo /etc/sysconfig/docker
